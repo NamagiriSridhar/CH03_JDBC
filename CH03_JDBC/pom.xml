@@ -42,7 +42,7 @@
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
 			<scope>runtime</scope>
-			<version>1.4.196</version>		<!--IMPORTANT Need to add for jdbc to work esp.keyholder,  put in. hashmap row mapper-->
+			<version>2.0.206</version>		<!--IMPORTANT Need to add for jdbc to work esp.keyholder,  put in. hashmap row mapper-->
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
